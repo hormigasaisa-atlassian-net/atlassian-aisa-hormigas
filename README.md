@@ -1,5 +1,4 @@
-# atlassian-aisa-hormigas
-Software
+# hormigasaisa-atlassian-net 
 
 La organización HormigasAISSa el dominio **[hormigasaisa.atlassian.net](https://hormigasaisa.atlassian.net)** con GitHub.  
 Forma parte del ecosistema **HormigasAIS**, un laboratorio abierto para explorar **automatización, SEO, IA y desarrollo colaborativo**. 
