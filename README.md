@@ -1,6 +1,6 @@
 # hormigasaisa-atlassian-net
 
-La organización **HormigasAISsa** conecta el dominio [hormigasaisa.atlassian.net](https://hormigasaisa.atlassian.net/wiki/x/AQAuB) con GitHub.  
+La organización **HormigasAISsa** conecta el dominio [hormigasaisa-atlassian-net](https://hormigasaisa.atlassian.net/wiki/x/AQAuB) con GitHub.  
 Forma parte del **ecosistema HormigasAIS**, un laboratorio abierto para explorar **automatización, SEO, IA y desarrollo colaborativo**.
 
 ---
