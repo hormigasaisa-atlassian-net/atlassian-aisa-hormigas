@@ -21,7 +21,8 @@ Forma parte del **ecosistema HormigasAIS**, un laboratorio abierto para explorar
 ## 🌍 Ecosistema HormigasAISsa
 - Jira: [P.HormigasAISsa](https://hormigasaisa.atlassian.net/wiki/x/AQAuB)  
 - GitHub: [Organización hormigasaisa-atlassian-net](https://github.com/hormigasaisa-atlassian-net)  
-- Blog / Newsletter: *(https://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048)*  
+- Blog / Newsletter:
+[HormigasAISCommunity](https://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048)  
 
 ---
 
